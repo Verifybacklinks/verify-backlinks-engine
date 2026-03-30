@@ -124,4 +124,4 @@ https://verifybacklinks.com
 
 See real backlink audit outputs:
 
-→ /examples
+→ https://github.com/verifybacklinks/verify-backlinks-engine/tree/main/examples
