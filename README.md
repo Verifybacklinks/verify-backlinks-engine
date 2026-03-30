@@ -117,3 +117,11 @@ It is designed to provide real backlink verification using live page analysis in
 ## Website
 
 https://verifybacklinks.com
+
+---
+
+## Real output examples
+
+See real backlink audit outputs:
+
+→ /examples
