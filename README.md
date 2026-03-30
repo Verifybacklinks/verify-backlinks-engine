@@ -1,5 +1,11 @@
 # Verify Backlinks™ — Live Backlink Audit Engine
 
+## Run your own backlink audit
+
+Upload your backlink list and get a full audit with PDF, Excel and disavow outputs:
+
+→ https://verifybacklinks.com/free-trial
+
 Verify Backlinks™ is a backlink audit engine that verifies backlinks on the live URL and turns them into clear, actionable SEO decisions.
 
 Most tools show backlink data.  
